@@ -1,1 +1,1 @@
-# Student_Managment_System1
+# Student_Managment_System
